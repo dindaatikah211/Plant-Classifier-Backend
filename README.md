@@ -121,4 +121,4 @@ Kirim gambar daun untuk diprediksi.
 
 ## 🔗 Repo Terkait
 
-- **Frontend (Next.js):** [plant-classifier-frontend](https://github.com/username/plant-classifier-frontend)
+- **Frontend (Next.js):** [plant-classifier-frontend](https://github.com/dindaatikah211/plant-classifier-frontend)
