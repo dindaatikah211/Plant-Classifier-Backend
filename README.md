@@ -2,8 +2,6 @@
 
 REST API berbasis Flask untuk klasifikasi jenis tumbuhan menggunakan model deep learning (MobileNetV2 + Transfer Learning).
 
-> Bagian dari project **Tubes Pengolahan Citra** — sistem klasifikasi tumbuhan berbasis gambar.
-
 ---
 
 ## Struktur Folder
@@ -50,7 +48,6 @@ pip install -r requirements.txt
 ### 4. Letakkan file model
 
 Taruh `plant_model.h5` dan `class_names.json` di dalam folder `model/`.  
-File model bisa di-download dari [Google Drive / Release](#) *(link menyusul)*.
 
 ### 5. Jalankan server
 
@@ -121,4 +118,4 @@ Kirim gambar daun untuk diprediksi.
 
 ## 🔗 Repo Terkait
 
-- **Frontend (Next.js):** [plant-classifier-frontend](https://github.com/username/plant-classifier-frontend)
+- **Frontend (Next.js):** [plant-classifier-frontend](https://github.com/dindaatikah211/plant-classifier-frontend)
